@@ -1,0 +1,7 @@
+.DS_STORE
+
+# Ignore everything
+*/secrets/*
+
+# But not these files...
+!variables-template.json
